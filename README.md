@@ -26,3 +26,5 @@ The script works as follows:
 5. Activity labels are replaced with desriptive activity names
 6. The data is then summarised to get the means of various features grouped by subject and activity labels
 7. The final summarised data is written using write.table function with option row.name=FALSE
+
+The code book for the output data ( summarised data), projectSummary.txt is named CodeBook.md 
